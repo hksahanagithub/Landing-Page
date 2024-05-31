@@ -22,34 +22,35 @@ Event listeners for smooth form switching.
 Dynamic messages to provide feedback to users on their actions.
 
 
-![image 1](https://github.com/hksahanagithub/Web-Dev-Task2-/assets/164031728/8a66bdce-5faa-41be-b68b-b2bb307c838e)
-
-Fig 1. A landing page for a web development course.
 
 ![image 1](https://github.com/hksahanagithub/Web-Dev-Task2-/assets/164031728/8a66bdce-5faa-41be-b68b-b2bb307c838e)
 
-Fig 2. Exhibits a web page featuring Login form.
+# Fig 1. A landing page for a web development course.
+
+![image 1](https://github.com/hksahanagithub/Web-Dev-Task2-/assets/164031728/8a66bdce-5faa-41be-b68b-b2bb307c838e)
+
+# Fig 2. Exhibits a web page featuring Login form.
 
 ![image 7](https://github.com/hksahanagithub/Web-Dev-Task2-/assets/164031728/cb878b4b-8314-4cef-84a9-03e1f2f03535)
 
-Fig 3. Exhibits a web page featuring Sign-Up. 
+# Fig 3. Exhibits a web page featuring Sign-Up. 
 
 ![image 2](https://github.com/hksahanagithub/Web-Dev-Task2-/assets/164031728/32b7d165-90e3-4d9a-8a90-1afb5d4a7dc5)
 
-Fig 4. Showcases the callback action for 'Join Us'.
+# Fig 4. Showcases the callback action for 'Join Us'.
 
 ![image 3](https://github.com/hksahanagithub/Web-Dev-Task2-/assets/164031728/4dd17852-b439-4fa1-9a23-cc0ab1dbd865)
 
-Fig 5. Displays the email validation check. 
+# Fig 5. Displays the email validation check. 
 
 ![image 4](https://github.com/hksahanagithub/Web-Dev-Task2-/assets/164031728/964d8268-fe84-4832-b237-57f75f9efb58)
 
-Fig 6.  Illustrates the callback action for passwords that do not match.
+# Fig 6.  Illustrates the callback action for passwords that do not match.
 
 ![image 5](https://github.com/hksahanagithub/Web-Dev-Task2-/assets/164031728/957cce9c-3ccb-4e44-affc-f5827d371c93)
 
-Fig 7. The page displays a 'Thank you for signing up' message.
+# Fig 7. The page displays a 'Thank you for signing up' message.
 
 ![image 6](https://github.com/hksahanagithub/Web-Dev-Task2-/assets/164031728/3dd506f5-7561-43d0-9c62-5bf93a81808c)
 
-Fig 8. The page displays a 'Login successful!' message."
+# Fig 8. The page displays a 'Login successful!' message."
