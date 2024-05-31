@@ -1,3 +1,4 @@
+![image 1](https://github.com/hksahanagithub/Web-Dev-Task2-/assets/164031728/0c4a09d5-bbfd-4244-9c64-15f4ae08a045)
 # Web-Dev-Task2-
 A landing page for a web development course.
 
